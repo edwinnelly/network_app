@@ -1,3 +1,6 @@
+<?php
+include_once "component/user_data.php";
+?>
 <!doctype html>
 <html lang="en">
 

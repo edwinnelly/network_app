@@ -4,7 +4,7 @@
             <img src="../assets/images/Naturcrystal logo png.png" style="height: 50px;" class="rounded-circle user-photo" alt="Company logo">
             <div class="dropdown">
                 <span>Welcome!</span>
-                <a href="javascript:void(0);" class="dropdown-toggle user-name" data-toggle="dropdown"><strong>User</strong></a>
+                <a href="javascript:void(0);" class="dropdown-toggle user-name" data-toggle="dropdown"><strong><?php echo $first_name; ?></strong></a>
                 <ul class="dropdown-menu dropdown-menu-right account">
                     <li><a href="page-profile2.html"><i class="icon-user"></i>My Profile</a></li>
                     <li><a href="javascript:void(0);"><i class="icon-settings"></i>Settings</a></li>
